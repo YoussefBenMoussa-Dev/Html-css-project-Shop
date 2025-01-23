@@ -13,14 +13,17 @@ Titles are centered with double underlining and spacing.
 A return button (btn-primary) at the bottom of each page, spanning the full width.
 Colored borders and text alignment for blocks on Accueil.html.
 Technologies Used
+
 HTML:
 
-Structured content using <div>, <h2>, and <a> tags.
+Structured content using div, h2, and a tags.
 Created tables using <table> for the members' page.
+
 CSS:
 
 Custom styles for titles, links, buttons, and page layout.
 Colored borders and flexible alignment for the blocks on Accueil.html.
+
 Bootstrap:
 
 Used for styling tables and improving responsiveness.
